@@ -9,6 +9,7 @@ Originally trained in **maths and computer science**, I'm now a **second-year nu
 
 A mobile-first app for **coastal navigation and safety**, built for kayakers, paddleboarders, and anyone who explores the sea from the shore.  
 Real-time GPS, compass, live marine weather, draggable buoys — all in one clean and minimal interface.
+Contact-me if you're interessed!
 
 ---
 
