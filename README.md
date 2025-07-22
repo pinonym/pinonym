@@ -7,7 +7,7 @@ Originally trained in **maths and computer science**, I'm now a **second-year nu
 
 ## 🛠️ Tech Interests
 
-- 🐍 **Scripting** (Python, Go, Lua)
+- 🐍 **Ssscripting ++** (Python, Go, Lua)
 - 🧩 Modelisation (Unity 3D)
 - 🌐 Web (html, css, Vanilla JS)
 - 🧠 Clean UX for **real-world tools**
