@@ -5,14 +5,6 @@ Originally trained in **maths and computer science**, I'm now a **second-year nu
 
 ---
 
-## ⚡ Current Focus: [Koast](https://github.com/pinonym/koast)
-
-A mobile-first app for **coastal navigation and safety**, built for kayakers, paddleboarders, and anyone who explores the sea from the shore.  
-Real-time GPS, compass, live marine weather, draggable buoys — all in one clean and minimal interface.
-Contact-me if you're interessed!
-
----
-
 ## 🛠️ Tech Interests
 
 - 🌐 Web development (Vanilla JS, modular code)
@@ -33,6 +25,4 @@ Contact-me if you're interessed!
 ## 📬 Reach out
 
 I love thoughtful feedback, niche ideas, and simple contributions.  
-Feel free to [open an issue](https://github.com/pinonym/koast/issues), suggest a feature, or just say hi 👋
-
----
+Feel free to say hi 👋
