@@ -1,6 +1,6 @@
 # 🏝️ @pinonym
 
-I'm a curious builder at the intersection of **maths**, **coding**, and **real world**.  
+I'm a curious builder at the intersection of **maths**, **coding** and **real world**.  
 Originally trained in **maths and computer science**, I'm now a **second-year nursing student**, passionate about clean code, open-source tools, and useful tech — especially for the outdoors.
 
 ---
